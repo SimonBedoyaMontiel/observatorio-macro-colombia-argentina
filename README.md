@@ -29,14 +29,14 @@ La pregunta: **¿cómo se comportan la inflación, el tipo de cambio y las tasas
 | --- | --- |
 | 📅 **Periodo** | enero de 2017 a la fecha, frecuencia mensual |
 | 📊 **Indicadores** | Inflación, tipo de cambio, tasas de interés, reservas internacionales y agregado monetario |
-| 🏛️ **Fuentes** | Banco de la República · DANE · datos.gov.co · BCRA · INDEC · datos.gob.ar |
+| 🏛️ **Fuentes** | DANE · datos.gov.co · FMI · BCRA · INDEC · datos.gob.ar |
 | 🛠️ **Herramientas** | Python · pandas · PostgreSQL · SQL · Power BI · Streamlit |
 
 ## 🔄 Cómo fluyen los datos
 
 ```mermaid
 flowchart LR
-    A["🏛️ Fuentes oficiales<br/>Banrep · DANE · BCRA · INDEC"] --> B["🐍 Ingesta<br/>Python · requests"]
+    A["🏛️ Fuentes<br/>DANE · datos.gov.co · FMI · BCRA · INDEC"] --> B["🐍 Ingesta<br/>Python · requests"]
     B --> C["📁 Datos crudos"]
     C --> D["🧹 Limpieza<br/>pandas"]
     D --> E[("🐘 PostgreSQL<br/>tabla común")]
@@ -59,12 +59,16 @@ flowchart LR
 
 | Indicador | 🇨🇴 Colombia | 🇦🇷 Argentina |
 | --- | --- | --- |
-| 📈 Inflación (IPC) | DANE | INDEC |
-| 💱 Tipo de cambio oficial | TRM (datos.gov.co) | BCRA |
+| 📈 Inflación (IPC) | DANE ✅ | INDEC |
+| 💱 Tipo de cambio oficial | TRM (datos.gov.co) ✅ | BCRA |
 | 💵 Tipo de cambio paralelo | No aplica | A definir |
-| 🏦 Tasa de interés | Tasa de política del Banco de la República | BADLAR o TAMAR |
-| 🪙 Reservas internacionales | Banco de la República | BCRA |
-| 💰 Agregado monetario | Banco de la República | BCRA |
+| 🏦 Tasa del mercado monetario | FMI ✅ | FMI (sugerido) |
+| 🪙 Reservas internacionales | FMI ✅ | FMI (sugerido) |
+| 💰 Dinero amplio | FMI ✅ | FMI (sugerido) |
+
+✅ Serie descargada, limpia y cargada en PostgreSQL.
+
+> 🌐 **Por qué el FMI:** el Banco de la República no tiene una API abierta para estas tres series. El FMI recibe los datos de cada banco central y los publica con **las mismas definiciones para todos los países**, lo que hace la comparación más justa.
 
 Las decisiones detrás de cada elección están en [`docs/decisiones.md`](docs/decisiones.md).
 
@@ -96,7 +100,11 @@ Después:
 
 ```bash
 python ingesta/colombia/descargar_trm.py   # 1. descarga
+python ingesta/colombia/descargar_ipc.py
+python ingesta/colombia/descargar_fmi.py
 python limpieza/colombia/limpiar_trm.py    # 2. limpieza
+python limpieza/colombia/limpiar_ipc.py
+python limpieza/colombia/limpiar_fmi.py
 python carga/cargar_datos.py               # 3. carga a PostgreSQL
 python analisis/grafico_trm.py             # 4. gráfico
 ```
