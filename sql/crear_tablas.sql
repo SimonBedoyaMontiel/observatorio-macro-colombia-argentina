@@ -10,7 +10,5 @@ CREATE TABLE IF NOT EXISTS observaciones (
     unidad     VARCHAR(30)  NOT NULL,  -- ej. 'COP por USD', 'indice', 'porcentaje'
     fuente     VARCHAR(100) NOT NULL,  -- ej. 'Banco de la República'
     serie_id   VARCHAR(100),           -- código de la serie en la fuente original
-
-    -- Evita cargar dos veces el mismo dato
-    PRIMARY KEY (fecha, pais, indicador)
+    PRIMARY KEY (fecha, pais, indicador)  -- evita cargar dos veces el mismo dato
 );

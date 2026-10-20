@@ -68,6 +68,14 @@ flowchart LR
 
 Las decisiones detrás de cada elección están en [`docs/decisiones.md`](docs/decisiones.md).
 
+## 📈 Primer vistazo
+
+La primera serie que recorrió el pipeline completo (descarga → limpieza → PostgreSQL → gráfico):
+
+<p align="center">
+  <img src="analisis/graficos/trm_colombia.png" alt="TRM promedio mensual de Colombia entre 2017 y 2026, con un máximo en noviembre de 2022" width="100%">
+</p>
+
 ## 🔍 Hallazgos
 
 > Se completarán en la fase 3.
@@ -84,6 +92,14 @@ Después:
 
 1. Crear en PostgreSQL una base llamada `observatorio` y ejecutar [`sql/crear_tablas.sql`](sql/crear_tablas.sql).
 2. Copiar `.env.example` como `.env` y completar los datos de conexión.
+3. Ejecutar el pipeline:
+
+```bash
+python ingesta/colombia/descargar_trm.py   # 1. descarga
+python limpieza/colombia/limpiar_trm.py    # 2. limpieza
+python carga/cargar_datos.py               # 3. carga a PostgreSQL
+python analisis/grafico_trm.py             # 4. gráfico
+```
 
 ## 📂 Estructura del repositorio
 
@@ -91,12 +107,18 @@ Después:
 ├── ingesta/
 │   ├── colombia/            # Scripts de descarga de Colombia
 │   └── argentina/           # Scripts de descarga de Argentina
+├── limpieza/
+│   └── colombia/            # Scripts que llevan cada serie al esquema común
+├── carga/
+│   └── cargar_datos.py      # Carga los datos limpios a PostgreSQL
 ├── datos/
 │   ├── crudos/              # Datos tal como vienen de la fuente
 │   └── limpios/             # Datos en el esquema común
 ├── sql/
 │   └── crear_tablas.sql     # Creación de la tabla de observaciones
-├── analisis/                # Análisis comparativo
+├── analisis/
+│   ├── grafico_trm.py       # Gráfico de la TRM desde PostgreSQL
+│   └── graficos/            # Imágenes de los gráficos
 ├── dashboard/               # Dashboards en Power BI y Streamlit
 ├── docs/
 │   └── decisiones.md        # Decisiones del proyecto y su motivo
