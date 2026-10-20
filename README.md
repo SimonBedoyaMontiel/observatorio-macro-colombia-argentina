@@ -59,12 +59,14 @@ flowchart LR
 
 | Indicador | 🇨🇴 Colombia | 🇦🇷 Argentina |
 | --- | --- | --- |
-| 📈 Inflación (IPC) | DANE | INDEC |
-| 💱 Tipo de cambio oficial | TRM (datos.gov.co) | BCRA |
+| 📈 Inflación (IPC) | DANE ✅ | INDEC |
+| 💱 Tipo de cambio oficial | TRM (datos.gov.co) ✅ | BCRA |
 | 💵 Tipo de cambio paralelo | No aplica | A definir |
 | 🏦 Tasa de interés | Tasa de política del Banco de la República | BADLAR o TAMAR |
 | 🪙 Reservas internacionales | Banco de la República | BCRA |
 | 💰 Agregado monetario | Banco de la República | BCRA |
+
+✅ Serie descargada, limpia y cargada en PostgreSQL.
 
 Las decisiones detrás de cada elección están en [`docs/decisiones.md`](docs/decisiones.md).
 
@@ -96,7 +98,9 @@ Después:
 
 ```bash
 python ingesta/colombia/descargar_trm.py   # 1. descarga
+python ingesta/colombia/descargar_ipc.py
 python limpieza/colombia/limpiar_trm.py    # 2. limpieza
+python limpieza/colombia/limpiar_ipc.py
 python carga/cargar_datos.py               # 3. carga a PostgreSQL
 python analisis/grafico_trm.py             # 4. gráfico
 ```
