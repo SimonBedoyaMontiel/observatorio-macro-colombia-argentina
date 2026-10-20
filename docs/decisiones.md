@@ -30,6 +30,9 @@ Una fila por observación, en la tabla `observaciones`:
 | `serie_id` | Código de la serie en la fuente original |
 
 - Las series diarias se llevan a mensual con el **promedio del mes**.
+- **TRM:** el promedio se calcula sobre **todos los días del mes**, no solo los días hábiles. La TRM de un viernes sigue vigente el fin de semana, así que esos días toman el último valor publicado.
+- **Meses incompletos:** el mes en curso no se incluye hasta que termina, para no comparar un promedio parcial con meses completos.
+- **Recarga sin duplicados:** al cargar un indicador a PostgreSQL, primero se borran sus filas anteriores. El script de carga se puede ejecutar varias veces.
 
 ## 📊 Indicadores
 

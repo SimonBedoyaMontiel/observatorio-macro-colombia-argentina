@@ -84,6 +84,13 @@ Después:
 
 1. Crear en PostgreSQL una base llamada `observatorio` y ejecutar [`sql/crear_tablas.sql`](sql/crear_tablas.sql).
 2. Copiar `.env.example` como `.env` y completar los datos de conexión.
+3. Ejecutar el pipeline:
+
+```bash
+python ingesta/colombia/descargar_trm.py   # 1. descarga
+python limpieza/colombia/limpiar_trm.py    # 2. limpieza
+python carga/cargar_datos.py               # 3. carga a PostgreSQL
+```
 
 ## 📂 Estructura del repositorio
 
@@ -91,6 +98,10 @@ Después:
 ├── ingesta/
 │   ├── colombia/            # Scripts de descarga de Colombia
 │   └── argentina/           # Scripts de descarga de Argentina
+├── limpieza/
+│   └── colombia/            # Scripts que llevan cada serie al esquema común
+├── carga/
+│   └── cargar_datos.py      # Carga los datos limpios a PostgreSQL
 ├── datos/
 │   ├── crudos/              # Datos tal como vienen de la fuente
 │   └── limpios/             # Datos en el esquema común
