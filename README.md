@@ -68,6 +68,14 @@ flowchart LR
 
 Las decisiones detrás de cada elección están en [`docs/decisiones.md`](docs/decisiones.md).
 
+## 📈 Primer vistazo
+
+La primera serie que recorrió el pipeline completo (descarga → limpieza → PostgreSQL → gráfico):
+
+<p align="center">
+  <img src="analisis/graficos/trm_colombia.png" alt="TRM promedio mensual de Colombia entre 2017 y 2026, con un máximo en noviembre de 2022" width="100%">
+</p>
+
 ## 🔍 Hallazgos
 
 > Se completarán en la fase 3.
@@ -90,6 +98,7 @@ Después:
 python ingesta/colombia/descargar_trm.py   # 1. descarga
 python limpieza/colombia/limpiar_trm.py    # 2. limpieza
 python carga/cargar_datos.py               # 3. carga a PostgreSQL
+python analisis/grafico_trm.py             # 4. gráfico
 ```
 
 ## 📂 Estructura del repositorio
@@ -107,7 +116,9 @@ python carga/cargar_datos.py               # 3. carga a PostgreSQL
 │   └── limpios/             # Datos en el esquema común
 ├── sql/
 │   └── crear_tablas.sql     # Creación de la tabla de observaciones
-├── analisis/                # Análisis comparativo
+├── analisis/
+│   ├── grafico_trm.py       # Gráfico de la TRM desde PostgreSQL
+│   └── graficos/            # Imágenes de los gráficos
 ├── dashboard/               # Dashboards en Power BI y Streamlit
 ├── docs/
 │   └── decisiones.md        # Decisiones del proyecto y su motivo
