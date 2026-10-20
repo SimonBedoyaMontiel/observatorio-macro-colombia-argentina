@@ -1,23 +1,118 @@
-# Macro-Financial Observatory: Colombia vs. Argentina
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=180&text=Observatorio%20Macro-Financiero&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=Colombia%20vs.%20Argentina%20%C2%B7%20Inflaci%C3%B3n%2C%20tipo%20de%20cambio%20y%20tasas&descAlignY=64&descSize=18&descColor=58a6ff" width="100%" alt="Observatorio Macro-Financiero: Colombia vs. Argentina">
 
-Comparison of inflation, exchange rates, interest rates and monetary policy in Colombia and Argentina (2017–present), built from official data sources.
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-En%20construcci%C3%B3n-F2C811?style=flat" alt="Estado: en construcción">
+  <img src="https://img.shields.io/badge/Periodo-2017%20%E2%80%93%202026-58a6ff?style=flat" alt="Periodo 2017 a 2026">
+  <img src="https://img.shields.io/badge/Datos-Fuentes%20oficiales-2ea44f?style=flat" alt="Datos de fuentes oficiales">
+</p>
 
-> Work in progress.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
 
-## Project structure
+Proyecto en equipo que compara la inflación, el tipo de cambio, las tasas de interés y la política monetaria de **Colombia** y **Argentina** con datos oficiales: un pipeline en Python que descarga y limpia las series, una base común en PostgreSQL y dashboards en Power BI y Streamlit.
 
-| Folder | Content |
-|---|---|
-| `ingesta/` | Scripts that download raw data from official sources |
-| `datos/` | Raw and cleaned data |
-| `analisis/` | Comparative analysis |
-| `dashboard/` | Power BI and Streamlit dashboards |
+## 🎯 El problema en una línea
 
-## Stack
+| 🇨🇴 Colombia | 🇦🇷 Argentina |
+| --- | --- |
+| Metas de inflación | Historial de alta inflación |
+| Tipo de cambio flotante | Restricciones cambiarias y brecha con el dólar paralelo |
 
-Python (pandas, requests) · PostgreSQL · SQL · Power BI · Streamlit
+La pregunta: **¿cómo se comportan la inflación, el tipo de cambio y las tasas de interés en dos economías con regímenes tan distintos, y qué relaciones se pueden medir entre ellas?**
 
-## Authors
+| | |
+| --- | --- |
+| 📅 **Periodo** | enero de 2017 a la fecha, frecuencia mensual |
+| 📊 **Indicadores** | Inflación, tipo de cambio, tasas de interés, reservas internacionales y agregado monetario |
+| 🏛️ **Fuentes** | Banco de la República · DANE · datos.gov.co · BCRA · INDEC · datos.gob.ar |
+| 🛠️ **Herramientas** | Python · pandas · PostgreSQL · SQL · Power BI · Streamlit |
 
-- Simon Bedoya Montiel — Colombia
-- Gonzalo — Argentina
+## 🔄 Cómo fluyen los datos
+
+```mermaid
+flowchart LR
+    A["🏛️ Fuentes oficiales<br/>Banrep · DANE · BCRA · INDEC"] --> B["🐍 Ingesta<br/>Python · requests"]
+    B --> C["📁 Datos crudos"]
+    C --> D["🧹 Limpieza<br/>pandas"]
+    D --> E[("🐘 PostgreSQL<br/>tabla común")]
+    E --> F["📈 Power BI"]
+    E --> G["🌐 Streamlit"]
+```
+
+## 🗺️ Cuatro fases, una por semana
+
+| Fase | Qué se hace | Herramienta | Resultado | Estado |
+| --- | --- | --- | --- | :---: |
+| **1. Ingesta** | Descargar las series de las fuentes oficiales | Python · requests | Datos crudos de ambos países | 🔄 |
+| **2. Limpieza y base de datos** | Llevar las series a un esquema común, controlar su calidad y cargarlas | pandas · PostgreSQL | Una tabla única y confiable | ⏳ |
+| **3. Análisis** | Comparar inflación, tipo de cambio y tasas reales entre los dos países | SQL · pandas | Entre 4 y 6 hallazgos con su gráfico | ⏳ |
+| **4. Dashboards** | Presentar los resultados de forma interactiva | Power BI · Streamlit | Dos dashboards y un informe | ⏳ |
+
+✅ Terminada · 🔄 En curso · ⏳ Pendiente
+
+## 📊 Indicadores
+
+| Indicador | 🇨🇴 Colombia | 🇦🇷 Argentina |
+| --- | --- | --- |
+| 📈 Inflación (IPC) | DANE | INDEC |
+| 💱 Tipo de cambio oficial | TRM (datos.gov.co) | BCRA |
+| 💵 Tipo de cambio paralelo | No aplica | A definir |
+| 🏦 Tasa de interés | Tasa de política del Banco de la República | BADLAR o TAMAR |
+| 🪙 Reservas internacionales | Banco de la República | BCRA |
+| 💰 Agregado monetario | Banco de la República | BCRA |
+
+Las decisiones detrás de cada elección están en [`docs/decisiones.md`](docs/decisiones.md).
+
+## 🔍 Hallazgos
+
+> Se completarán en la fase 3.
+
+## ▶️ Cómo ejecutarlo
+
+```bash
+git clone https://github.com/SimonBedoyaMontiel/observatorio-macro-colombia-argentina.git
+cd observatorio-macro-colombia-argentina
+pip install -r requirements.txt
+```
+
+Después:
+
+1. Crear en PostgreSQL una base llamada `observatorio` y ejecutar [`sql/crear_tablas.sql`](sql/crear_tablas.sql).
+2. Copiar `.env.example` como `.env` y completar los datos de conexión.
+
+## 📂 Estructura del repositorio
+
+```
+├── ingesta/
+│   ├── colombia/            # Scripts de descarga de Colombia
+│   └── argentina/           # Scripts de descarga de Argentina
+├── datos/
+│   ├── crudos/              # Datos tal como vienen de la fuente
+│   └── limpios/             # Datos en el esquema común
+├── sql/
+│   └── crear_tablas.sql     # Creación de la tabla de observaciones
+├── analisis/                # Análisis comparativo
+├── dashboard/               # Dashboards en Power BI y Streamlit
+├── docs/
+│   └── decisiones.md        # Decisiones del proyecto y su motivo
+├── .env.example             # Modelo de configuración de la base de datos
+└── requirements.txt
+```
+
+## 👥 Equipo
+
+| | País | Rol |
+| --- | :---: | --- |
+| **Simón Bedoya Montiel** | 🇨🇴 | Datos de Colombia · Dashboard en Power BI |
+| **Gonzalo** | 🇦🇷 | Datos de Argentina · Dashboard en Streamlit |
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/simon-bedoya-montiel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sim%C3%B3n%20Bedoya-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn de Simón Bedoya">
+  </a>
+</p>
