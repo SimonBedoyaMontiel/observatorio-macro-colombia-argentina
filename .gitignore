@@ -1,0 +1,23 @@
+# Credenciales (nunca se suben)
+.env
+
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales de Excel y Power BI
+~$*
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
