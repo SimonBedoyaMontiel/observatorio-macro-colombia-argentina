@@ -1,0 +1,347 @@
+fecha,pais,indicador,valor,unidad,fuente,serie_id
+2017-01-01,Colombia,dinero_amplio,419490.91,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-02-01,Colombia,dinero_amplio,428206.74,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-03-01,Colombia,dinero_amplio,422963.73,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-04-01,Colombia,dinero_amplio,424462.48,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-05-01,Colombia,dinero_amplio,425372.53,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-06-01,Colombia,dinero_amplio,428587.79,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-07-01,Colombia,dinero_amplio,430409.31,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-08-01,Colombia,dinero_amplio,429117.53,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-09-01,Colombia,dinero_amplio,427239.98,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-10-01,Colombia,dinero_amplio,431462.36,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-11-01,Colombia,dinero_amplio,439569.68,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-12-01,Colombia,dinero_amplio,451252.77,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-01-01,Colombia,dinero_amplio,327882.7,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-02-01,Colombia,dinero_amplio,332223.27,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-03-01,Colombia,dinero_amplio,335066.74,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-04-01,Colombia,dinero_amplio,333704.04,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-05-01,Colombia,dinero_amplio,331979.85,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-06-01,Colombia,dinero_amplio,336814.07,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-07-01,Colombia,dinero_amplio,342393.29,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-08-01,Colombia,dinero_amplio,344926.06,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-09-01,Colombia,dinero_amplio,341896.62,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-10-01,Colombia,dinero_amplio,345747.77,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-11-01,Colombia,dinero_amplio,354538.14,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2018-12-01,Colombia,dinero_amplio,364594.56,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-01-01,Colombia,dinero_amplio,354743.51,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-02-01,Colombia,dinero_amplio,358582.68,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-03-01,Colombia,dinero_amplio,363898.04,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-04-01,Colombia,dinero_amplio,364297.47,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-05-01,Colombia,dinero_amplio,363529.05,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-06-01,Colombia,dinero_amplio,365918.16,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-07-01,Colombia,dinero_amplio,366711.44,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-08-01,Colombia,dinero_amplio,369691.78,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-09-01,Colombia,dinero_amplio,368474.51,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-10-01,Colombia,dinero_amplio,369678.97,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-11-01,Colombia,dinero_amplio,385078.64,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2019-12-01,Colombia,dinero_amplio,390804.55,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-01-01,Colombia,dinero_amplio,376801.48,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-02-01,Colombia,dinero_amplio,379951.54,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-03-01,Colombia,dinero_amplio,417005.56,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-04-01,Colombia,dinero_amplio,434124.49,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-05-01,Colombia,dinero_amplio,438558.04,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-06-01,Colombia,dinero_amplio,446381.96,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-07-01,Colombia,dinero_amplio,443940.22,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-08-01,Colombia,dinero_amplio,441171.79,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-09-01,Colombia,dinero_amplio,442069.15,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-10-01,Colombia,dinero_amplio,446852.58,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-11-01,Colombia,dinero_amplio,452686.01,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2020-12-01,Colombia,dinero_amplio,468696.08,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-01-01,Colombia,dinero_amplio,457685.85,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-02-01,Colombia,dinero_amplio,464647.05,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-03-01,Colombia,dinero_amplio,477053.79,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-04-01,Colombia,dinero_amplio,480628.68,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-05-01,Colombia,dinero_amplio,481858.11,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-06-01,Colombia,dinero_amplio,490638.03,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-07-01,Colombia,dinero_amplio,497181.02,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-08-01,Colombia,dinero_amplio,498434.51,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-09-01,Colombia,dinero_amplio,496070.47,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-10-01,Colombia,dinero_amplio,502982.74,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-11-01,Colombia,dinero_amplio,526001.09,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2021-12-01,Colombia,dinero_amplio,546582.12,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-01-01,Colombia,dinero_amplio,535869.45,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-02-01,Colombia,dinero_amplio,544399.55,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-03-01,Colombia,dinero_amplio,548110.66,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-04-01,Colombia,dinero_amplio,549514.6,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-05-01,Colombia,dinero_amplio,554803.37,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-06-01,Colombia,dinero_amplio,567907.3,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-07-01,Colombia,dinero_amplio,574468.04,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-08-01,Colombia,dinero_amplio,579126.89,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-09-01,Colombia,dinero_amplio,578225.97,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-10-01,Colombia,dinero_amplio,586563.78,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-11-01,Colombia,dinero_amplio,594026.2,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2022-12-01,Colombia,dinero_amplio,614293.64,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-01-01,Colombia,dinero_amplio,604526.07,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-02-01,Colombia,dinero_amplio,614698.9,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-03-01,Colombia,dinero_amplio,605322.99,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-04-01,Colombia,dinero_amplio,600051.9,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-05-01,Colombia,dinero_amplio,596283.05,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-06-01,Colombia,dinero_amplio,604156.86,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-07-01,Colombia,dinero_amplio,599249.18,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-08-01,Colombia,dinero_amplio,605596.82,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-09-01,Colombia,dinero_amplio,605468.33,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-10-01,Colombia,dinero_amplio,618792.53,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-11-01,Colombia,dinero_amplio,627056.93,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2023-12-01,Colombia,dinero_amplio,640641.72,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-01-01,Colombia,dinero_amplio,629031.35,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-02-01,Colombia,dinero_amplio,639687.86,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-03-01,Colombia,dinero_amplio,636274.93,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-04-01,Colombia,dinero_amplio,650652.74,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-05-01,Colombia,dinero_amplio,645225.43,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-06-01,Colombia,dinero_amplio,659672.67,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-07-01,Colombia,dinero_amplio,661254.42,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-08-01,Colombia,dinero_amplio,668721.49,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-09-01,Colombia,dinero_amplio,664131.11,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-10-01,Colombia,dinero_amplio,678218.12,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-11-01,Colombia,dinero_amplio,692771.65,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2024-12-01,Colombia,dinero_amplio,713298.44,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-01-01,Colombia,dinero_amplio,695186.19,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-02-01,Colombia,dinero_amplio,709585.97,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-03-01,Colombia,dinero_amplio,723805.9,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-04-01,Colombia,dinero_amplio,736733.85,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-05-01,Colombia,dinero_amplio,733068.58,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-06-01,Colombia,dinero_amplio,747981.37,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-07-01,Colombia,dinero_amplio,754764.36,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-08-01,Colombia,dinero_amplio,758759.66,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-09-01,Colombia,dinero_amplio,753915.27,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-10-01,Colombia,dinero_amplio,759814.83,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-11-01,Colombia,dinero_amplio,772604.49,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2025-12-01,Colombia,dinero_amplio,798259.98,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2026-01-01,Colombia,dinero_amplio,794932.89,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2026-02-01,Colombia,dinero_amplio,820290.08,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2026-03-01,Colombia,dinero_amplio,830489.19,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2026-04-01,Colombia,dinero_amplio,831935.33,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2026-05-01,Colombia,dinero_amplio,834995.07,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2026-06-01,Colombia,dinero_amplio,840177.15,miles de millones de COP,FMI,MFS_MA/BM_MAI
+2017-01-01,Colombia,reservas_internacionales,46492.5,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-02-01,Colombia,reservas_internacionales,46496.17,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-03-01,Colombia,reservas_internacionales,46442.55,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-04-01,Colombia,reservas_internacionales,46446.98,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-05-01,Colombia,reservas_internacionales,46654.92,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-06-01,Colombia,reservas_internacionales,46737.3,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-07-01,Colombia,reservas_internacionales,47034.6,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-08-01,Colombia,reservas_internacionales,47071.18,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-09-01,Colombia,reservas_internacionales,47017.61,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-10-01,Colombia,reservas_internacionales,46911.33,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-11-01,Colombia,reservas_internacionales,46897.82,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-12-01,Colombia,reservas_internacionales,47132.3,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-01-01,Colombia,reservas_internacionales,47288.01,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-02-01,Colombia,reservas_internacionales,47139.49,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-03-01,Colombia,reservas_internacionales,47111.7,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-04-01,Colombia,reservas_internacionales,47008.43,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-05-01,Colombia,reservas_internacionales,47099.04,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-06-01,Colombia,reservas_internacionales,46988.01,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-07-01,Colombia,reservas_internacionales,47015.93,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-08-01,Colombia,reservas_internacionales,47033.28,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-09-01,Colombia,reservas_internacionales,47008.69,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-10-01,Colombia,reservas_internacionales,46993.9,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-11-01,Colombia,reservas_internacionales,47249.66,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-12-01,Colombia,reservas_internacionales,47889.72,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-01-01,Colombia,reservas_internacionales,48706.73,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-02-01,Colombia,reservas_internacionales,49994.53,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-03-01,Colombia,reservas_internacionales,50758.09,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-04-01,Colombia,reservas_internacionales,51019.81,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-05-01,Colombia,reservas_internacionales,51463.13,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-06-01,Colombia,reservas_internacionales,51928.64,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-07-01,Colombia,reservas_internacionales,51852.23,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-08-01,Colombia,reservas_internacionales,52478.42,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-09-01,Colombia,reservas_internacionales,52354.71,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-10-01,Colombia,reservas_internacionales,52570.24,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-11-01,Colombia,reservas_internacionales,52437.85,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-12-01,Colombia,reservas_internacionales,52654.01,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-01-01,Colombia,reservas_internacionales,52949.48,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-02-01,Colombia,reservas_internacionales,53161.4,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-03-01,Colombia,reservas_internacionales,52820.5,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-04-01,Colombia,reservas_internacionales,53347.89,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-05-01,Colombia,reservas_internacionales,55847.4,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-06-01,Colombia,reservas_internacionales,56090.15,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-07-01,Colombia,reservas_internacionales,56439.82,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-08-01,Colombia,reservas_internacionales,56654.14,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-09-01,Colombia,reservas_internacionales,56448.43,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-10-01,Colombia,reservas_internacionales,56389.15,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-11-01,Colombia,reservas_internacionales,56715.4,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-12-01,Colombia,reservas_internacionales,58500.34,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-01-01,Colombia,reservas_internacionales,58471.3,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-02-01,Colombia,reservas_internacionales,58443.01,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-03-01,Colombia,reservas_internacionales,58369.7,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-04-01,Colombia,reservas_internacionales,58525.82,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-05-01,Colombia,reservas_internacionales,58584.12,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-06-01,Colombia,reservas_internacionales,58356.68,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-07-01,Colombia,reservas_internacionales,58316.84,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-08-01,Colombia,reservas_internacionales,58285.53,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-09-01,Colombia,reservas_internacionales,58161.45,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-10-01,Colombia,reservas_internacionales,58231.45,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-11-01,Colombia,reservas_internacionales,57971.43,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-12-01,Colombia,reservas_internacionales,58019.01,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-01-01,Colombia,reservas_internacionales,57704.15,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-02-01,Colombia,reservas_internacionales,57720.45,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-03-01,Colombia,reservas_internacionales,57441.47,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-04-01,Colombia,reservas_internacionales,56911.74,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-05-01,Colombia,reservas_internacionales,57065.86,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-06-01,Colombia,reservas_internacionales,56602.12,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-07-01,Colombia,reservas_internacionales,56790.93,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-08-01,Colombia,reservas_internacionales,56420.73,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-09-01,Colombia,reservas_internacionales,55771.15,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-10-01,Colombia,reservas_internacionales,55830.09,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-11-01,Colombia,reservas_internacionales,56422.94,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-12-01,Colombia,reservas_internacionales,56721.31,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-01-01,Colombia,reservas_internacionales,57233.83,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-02-01,Colombia,reservas_internacionales,56819.81,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-03-01,Colombia,reservas_internacionales,57419.51,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-04-01,Colombia,reservas_internacionales,57487.43,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-05-01,Colombia,reservas_internacionales,57150.69,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-06-01,Colombia,reservas_internacionales,57295.6,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-07-01,Colombia,reservas_internacionales,57581.92,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-08-01,Colombia,reservas_internacionales,57391.17,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-09-01,Colombia,reservas_internacionales,57024.8,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-10-01,Colombia,reservas_internacionales,56917.58,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-11-01,Colombia,reservas_internacionales,58038.82,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-12-01,Colombia,reservas_internacionales,59068.61,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-01-01,Colombia,reservas_internacionales,59126.47,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-02-01,Colombia,reservas_internacionales,58909.65,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-03-01,Colombia,reservas_internacionales,59419.76,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-04-01,Colombia,reservas_internacionales,59243.34,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-05-01,Colombia,reservas_internacionales,59996.61,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-06-01,Colombia,reservas_internacionales,60327.64,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-07-01,Colombia,reservas_internacionales,61308.14,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-08-01,Colombia,reservas_internacionales,62194.0,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-09-01,Colombia,reservas_internacionales,63009.36,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-10-01,Colombia,reservas_internacionales,62208.81,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-11-01,Colombia,reservas_internacionales,62372.56,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-12-01,Colombia,reservas_internacionales,61919.77,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-01-01,Colombia,reservas_internacionales,62233.84,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-02-01,Colombia,reservas_internacionales,62864.83,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-03-01,Colombia,reservas_internacionales,63246.4,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-04-01,Colombia,reservas_internacionales,64032.53,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-05-01,Colombia,reservas_internacionales,63973.62,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-06-01,Colombia,reservas_internacionales,64554.22,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-07-01,Colombia,reservas_internacionales,64281.65,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-08-01,Colombia,reservas_internacionales,64849.66,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-09-01,Colombia,reservas_internacionales,65215.26,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-10-01,Colombia,reservas_internacionales,65325.55,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-11-01,Colombia,reservas_internacionales,65507.17,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-12-01,Colombia,reservas_internacionales,65744.63,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-01-01,Colombia,reservas_internacionales,66331.88,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-02-01,Colombia,reservas_internacionales,66801.91,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-03-01,Colombia,reservas_internacionales,65959.26,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-04-01,Colombia,reservas_internacionales,66511.15,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-05-01,Colombia,reservas_internacionales,66643.28,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-06-01,Colombia,reservas_internacionales,66309.37,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-07-01,Colombia,reservas_internacionales,66394.35,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-01-01,Colombia,tasa_mercado_monetario,7.51,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-02-01,Colombia,tasa_mercado_monetario,7.46,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-03-01,Colombia,tasa_mercado_monetario,7.19,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-04-01,Colombia,tasa_mercado_monetario,6.99,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-05-01,Colombia,tasa_mercado_monetario,6.49,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-06-01,Colombia,tasa_mercado_monetario,6.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-07-01,Colombia,tasa_mercado_monetario,5.73,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-08-01,Colombia,tasa_mercado_monetario,5.53,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-09-01,Colombia,tasa_mercado_monetario,5.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-10-01,Colombia,tasa_mercado_monetario,5.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-11-01,Colombia,tasa_mercado_monetario,4.96,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-12-01,Colombia,tasa_mercado_monetario,4.74,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-01-01,Colombia,tasa_mercado_monetario,4.71,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-02-01,Colombia,tasa_mercado_monetario,4.51,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-03-01,Colombia,tasa_mercado_monetario,4.48,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-04-01,Colombia,tasa_mercado_monetario,4.43,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-05-01,Colombia,tasa_mercado_monetario,4.23,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-06-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-07-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-08-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-09-01,Colombia,tasa_mercado_monetario,4.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-10-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-11-01,Colombia,tasa_mercado_monetario,4.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-12-01,Colombia,tasa_mercado_monetario,4.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-01-01,Colombia,tasa_mercado_monetario,4.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-02-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-03-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-04-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-05-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-06-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-07-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-08-01,Colombia,tasa_mercado_monetario,4.27,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-09-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-10-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-11-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-12-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-01-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-02-01,Colombia,tasa_mercado_monetario,4.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-03-01,Colombia,tasa_mercado_monetario,4.18,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-04-01,Colombia,tasa_mercado_monetario,3.68,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-05-01,Colombia,tasa_mercado_monetario,3.23,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-06-01,Colombia,tasa_mercado_monetario,2.75,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-07-01,Colombia,tasa_mercado_monetario,2.49,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-08-01,Colombia,tasa_mercado_monetario,2.22,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-09-01,Colombia,tasa_mercado_monetario,1.97,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-10-01,Colombia,tasa_mercado_monetario,1.75,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-11-01,Colombia,tasa_mercado_monetario,1.75,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-12-01,Colombia,tasa_mercado_monetario,1.76,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-01-01,Colombia,tasa_mercado_monetario,1.74,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-02-01,Colombia,tasa_mercado_monetario,1.75,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-03-01,Colombia,tasa_mercado_monetario,1.71,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-04-01,Colombia,tasa_mercado_monetario,1.74,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-05-01,Colombia,tasa_mercado_monetario,1.76,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-06-01,Colombia,tasa_mercado_monetario,1.76,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-07-01,Colombia,tasa_mercado_monetario,1.76,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-08-01,Colombia,tasa_mercado_monetario,1.76,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-09-01,Colombia,tasa_mercado_monetario,1.79,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-10-01,Colombia,tasa_mercado_monetario,2.04,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-11-01,Colombia,tasa_mercado_monetario,2.55,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-12-01,Colombia,tasa_mercado_monetario,2.71,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-01-01,Colombia,tasa_mercado_monetario,3.1,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-02-01,Colombia,tasa_mercado_monetario,4.09,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-03-01,Colombia,tasa_mercado_monetario,4.06,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-04-01,Colombia,tasa_mercado_monetario,5.1,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-05-01,Colombia,tasa_mercado_monetario,6.06,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-06-01,Colombia,tasa_mercado_monetario,6.06,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-07-01,Colombia,tasa_mercado_monetario,7.49,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-08-01,Colombia,tasa_mercado_monetario,9.02,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-09-01,Colombia,tasa_mercado_monetario,9.07,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-10-01,Colombia,tasa_mercado_monetario,10.1,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-11-01,Colombia,tasa_mercado_monetario,10.99,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-12-01,Colombia,tasa_mercado_monetario,11.36,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-01-01,Colombia,tasa_mercado_monetario,12.02,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-02-01,Colombia,tasa_mercado_monetario,12.76,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-03-01,Colombia,tasa_mercado_monetario,12.64,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-04-01,Colombia,tasa_mercado_monetario,13.0,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-05-01,Colombia,tasa_mercado_monetario,13.28,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-06-01,Colombia,tasa_mercado_monetario,13.28,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-07-01,Colombia,tasa_mercado_monetario,13.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-08-01,Colombia,tasa_mercado_monetario,13.27,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-09-01,Colombia,tasa_mercado_monetario,13.24,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-10-01,Colombia,tasa_mercado_monetario,13.27,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-11-01,Colombia,tasa_mercado_monetario,13.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-12-01,Colombia,tasa_mercado_monetario,13.14,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-01-01,Colombia,tasa_mercado_monetario,12.99,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-02-01,Colombia,tasa_mercado_monetario,12.74,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-03-01,Colombia,tasa_mercado_monetario,12.67,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-04-01,Colombia,tasa_mercado_monetario,12.23,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-05-01,Colombia,tasa_mercado_monetario,11.75,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-06-01,Colombia,tasa_mercado_monetario,11.75,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-07-01,Colombia,tasa_mercado_monetario,11.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-08-01,Colombia,tasa_mercado_monetario,10.75,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-09-01,Colombia,tasa_mercado_monetario,10.75,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-10-01,Colombia,tasa_mercado_monetario,10.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-11-01,Colombia,tasa_mercado_monetario,9.75,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-12-01,Colombia,tasa_mercado_monetario,9.71,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-01-01,Colombia,tasa_mercado_monetario,9.52,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-02-01,Colombia,tasa_mercado_monetario,9.52,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-03-01,Colombia,tasa_mercado_monetario,9.5,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-04-01,Colombia,tasa_mercado_monetario,9.5,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-05-01,Colombia,tasa_mercado_monetario,9.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-06-01,Colombia,tasa_mercado_monetario,9.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-07-01,Colombia,tasa_mercado_monetario,9.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-08-01,Colombia,tasa_mercado_monetario,9.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-09-01,Colombia,tasa_mercado_monetario,9.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-10-01,Colombia,tasa_mercado_monetario,9.24,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-11-01,Colombia,tasa_mercado_monetario,9.23,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-12-01,Colombia,tasa_mercado_monetario,9.2,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-01-01,Colombia,tasa_mercado_monetario,9.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-02-01,Colombia,tasa_mercado_monetario,10.24,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-03-01,Colombia,tasa_mercado_monetario,10.24,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-04-01,Colombia,tasa_mercado_monetario,11.23,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-05-01,Colombia,tasa_mercado_monetario,11.23,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-06-01,Colombia,tasa_mercado_monetario,11.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-07-01,Colombia,tasa_mercado_monetario,11.99,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-08-01,Colombia,tasa_mercado_monetario,11.98,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-09-01,Colombia,tasa_mercado_monetario,11.98,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT

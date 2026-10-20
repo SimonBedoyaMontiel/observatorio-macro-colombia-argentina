@@ -43,9 +43,23 @@ Una fila por observación, en la tabla `observaciones`:
 | Inflación (IPC) | DANE | INDEC |
 | Tipo de cambio oficial | TRM (datos.gov.co) | BCRA |
 | Tipo de cambio paralelo | No aplica | A definir (blue, MEP o CCL) |
-| Tasa de interés | Tasa de política del Banco de la República | BADLAR o TAMAR (la tasa de política del BCRA cambió varias veces de instrumento) |
-| Reservas internacionales | Banco de la República | BCRA |
-| Agregado monetario | Banco de la República | BCRA |
+| Tasa de interés | FMI: tasa del mercado monetario | FMI (sugerido): tasa del mercado monetario |
+| Reservas internacionales | FMI | FMI (sugerido) |
+| Agregado monetario | FMI: dinero amplio | FMI (sugerido): dinero amplio |
+
+### Por qué el FMI para tasa, reservas y dinero
+
+El Banco de la República no tiene una API abierta para estas series: su portal (SUAMECA) solo permite descargarlas a mano. Se eligió la **API del FMI**, que no pide clave y recibe los datos de cada banco central:
+
+| Indicador | Dataset y código del FMI | Por qué ese |
+|---|---|---|
+| `tasa_mercado_monetario` | `MFS_IR` · `MMRT_RT_PT_A_PT` | Sigue de cerca la tasa de política (ene 2017: 7,51 % frente a 7,50 %) y es una **serie continua en los dos países**. La tasa de política del BCRA cambió varias veces de instrumento y el FMI la deja de publicar en 2025 |
+| `reservas_internacionales` | `IRFCL` · `IRFCLDT1_IRFCL65_USD` (sector `S1XS1311`) | Activos de reserva oficiales. Colombia solo publica el sector `S1XS1311` (banco central + gobierno central), y se usa el mismo para Argentina |
+| `dinero_amplio` | `MFS_MA` · `BM_MAI` | Existe en los dos países desde antes de 2017. La base monetaria de Colombia en el FMI recién empieza en 2018 |
+
+- Las cifras del FMI pueden diferir levemente de las que publica cada banco central, por diferencias de metodología.
+- El FMI publica con **uno a cuatro meses de rezago**: las series no llegan todas hasta el mismo mes.
+- **Para Argentina:** el FMI tiene las tres series con los mismos códigos (cambiando `COL` por `ARG`), lo que hace la comparación directa.
 
 ### Nombres de los indicadores
 
@@ -57,6 +71,9 @@ Ambos países usan **exactamente los mismos nombres** en la columna `indicador`,
 | `inflacion_mensual` | Variación % frente al mes anterior | porcentaje |
 | `inflacion_anual` | Variación % frente al mismo mes del año anterior | porcentaje |
 | `tipo_cambio_oficial` | Moneda local por dólar, promedio mensual | ej. COP por USD |
+| `tasa_mercado_monetario` | Tasa de interés del mercado monetario | porcentaje |
+| `reservas_internacionales` | Activos de reserva oficiales | millones de USD |
+| `dinero_amplio` | Agregado monetario amplio | miles de millones de moneda local |
 
 ## 🔄 Flujo de trabajo
 
