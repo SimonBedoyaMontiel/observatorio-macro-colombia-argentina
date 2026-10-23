@@ -79,7 +79,9 @@ La primera serie que recorrió el pipeline completo (descarga → limpieza → P
 <p align="center">
   <img src="analisis/graficos/trm_colombia.png" alt="TRM promedio mensual de Colombia entre 2017 y 2026, con un máximo en noviembre de 2022" width="100%">
 </p>
-
+<p align="center">
+  <img src="analisis/graficos/tipo_cambio_argentina.png" alt="Tipo de cambio oficial promedio mensual de Argentina entre 2017 y 2026, en escala logarítmica" width="100%">
+</p>
 ## 🔍 Hallazgos
 
 > Se completarán en la fase 3.
@@ -151,5 +153,8 @@ python analisis/grafico_trm.py             # 4. gráfico
 <p align="center">
   <a href="https://www.linkedin.com/in/simon-bedoya-montiel/">
     <img src="https://img.shields.io/badge/LinkedIn-Sim%C3%B3n%20Bedoya-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn de Simón Bedoya">
+  </a>
+  <a href="https://www.linkedin.com/in/gonzalo-ducca-b079011b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Ducca-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn de Gonzalo Ducca">
   </a>
 </p>
