@@ -102,9 +102,15 @@ Después:
 python ingesta/colombia/descargar_trm.py   # 1. descarga
 python ingesta/colombia/descargar_ipc.py
 python ingesta/colombia/descargar_fmi.py
+python ingesta/argentina/descargar_tipo_cambio.py
+python ingesta/argentina/descargar_ipc.py
+python ingesta/argentina/descargar_fmi.py
 python limpieza/colombia/limpiar_trm.py    # 2. limpieza
 python limpieza/colombia/limpiar_ipc.py
 python limpieza/colombia/limpiar_fmi.py
+python limpieza/argentina/limpiar_tipo_cambio.py
+python limpieza/argentina/limpiar_ipc.py
+python limpieza/argentina/limpiar_fmi.py
 python carga/cargar_datos.py               # 3. carga a PostgreSQL
 python analisis/grafico_trm.py             # 4. gráfico
 ```
@@ -139,7 +145,7 @@ python analisis/grafico_trm.py             # 4. gráfico
 | | País | Rol |
 | --- | :---: | --- |
 | **Simón Bedoya Montiel** | 🇨🇴 | Datos de Colombia · Dashboard en Power BI |
-| **Gonzalo** | 🇦🇷 | Datos de Argentina · Dashboard en Streamlit |
+| **[Gonzalo Ducca](https://github.com/gonducca)** | 🇦🇷 | Datos de Argentina · Dashboard en Streamlit |
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simon-bedoya-montiel/">
