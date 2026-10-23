@@ -1,0 +1,338 @@
+fecha,pais,indicador,valor,unidad,fuente,serie_id
+2017-01-01,Argentina,ipc,101.59,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-02-01,Argentina,ipc,103.69,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-03-01,Argentina,ipc,106.15,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-04-01,Argentina,ipc,108.97,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-05-01,Argentina,ipc,110.53,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-06-01,Argentina,ipc,111.85,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-07-01,Argentina,ipc,113.79,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-08-01,Argentina,ipc,115.38,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-09-01,Argentina,ipc,117.57,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-10-01,Argentina,ipc,119.35,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-11-01,Argentina,ipc,120.99,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-12-01,Argentina,ipc,124.8,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-01-01,Argentina,ipc,126.99,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-02-01,Argentina,ipc,130.06,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-03-01,Argentina,ipc,133.11,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-04-01,Argentina,ipc,136.75,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-05-01,Argentina,ipc,139.59,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-06-01,Argentina,ipc,144.81,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-07-01,Argentina,ipc,149.3,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-08-01,Argentina,ipc,155.1,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-09-01,Argentina,ipc,165.24,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-10-01,Argentina,ipc,174.15,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-11-01,Argentina,ipc,179.64,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-12-01,Argentina,ipc,184.26,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-01-01,Argentina,ipc,189.61,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-02-01,Argentina,ipc,196.75,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-03-01,Argentina,ipc,205.96,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-04-01,Argentina,ipc,212.96,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-05-01,Argentina,ipc,219.57,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-06-01,Argentina,ipc,225.54,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-07-01,Argentina,ipc,230.49,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-08-01,Argentina,ipc,239.61,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-09-01,Argentina,ipc,253.71,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-10-01,Argentina,ipc,262.07,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-11-01,Argentina,ipc,273.22,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-12-01,Argentina,ipc,283.44,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-01-01,Argentina,ipc,289.83,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-02-01,Argentina,ipc,295.67,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-03-01,Argentina,ipc,305.55,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-04-01,Argentina,ipc,310.12,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-05-01,Argentina,ipc,314.91,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-06-01,Argentina,ipc,321.97,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-07-01,Argentina,ipc,328.2,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-08-01,Argentina,ipc,337.06,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-09-01,Argentina,ipc,346.62,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-10-01,Argentina,ipc,359.66,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-11-01,Argentina,ipc,371.02,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-12-01,Argentina,ipc,385.88,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-01-01,Argentina,ipc,401.51,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-02-01,Argentina,ipc,415.86,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-03-01,Argentina,ipc,435.87,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-04-01,Argentina,ipc,453.65,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-05-01,Argentina,ipc,468.72,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-06-01,Argentina,ipc,483.6,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-07-01,Argentina,ipc,498.1,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-08-01,Argentina,ipc,510.39,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-09-01,Argentina,ipc,528.5,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-10-01,Argentina,ipc,547.08,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-11-01,Argentina,ipc,560.92,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-12-01,Argentina,ipc,582.46,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-01-01,Argentina,ipc,605.03,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-02-01,Argentina,ipc,633.43,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-03-01,Argentina,ipc,676.06,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-04-01,Argentina,ipc,716.94,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-05-01,Argentina,ipc,753.15,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-06-01,Argentina,ipc,793.03,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-07-01,Argentina,ipc,851.76,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-08-01,Argentina,ipc,911.13,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-09-01,Argentina,ipc,967.31,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-10-01,Argentina,ipc,1028.71,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-11-01,Argentina,ipc,1079.28,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-12-01,Argentina,ipc,1134.59,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-01-01,Argentina,ipc,1202.98,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-02-01,Argentina,ipc,1282.71,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-03-01,Argentina,ipc,1381.16,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-04-01,Argentina,ipc,1497.21,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-05-01,Argentina,ipc,1613.59,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-06-01,Argentina,ipc,1709.61,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-07-01,Argentina,ipc,1818.08,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-08-01,Argentina,ipc,2044.28,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-09-01,Argentina,ipc,2304.92,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-10-01,Argentina,ipc,2496.27,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-11-01,Argentina,ipc,2816.06,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-12-01,Argentina,ipc,3533.19,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-01-01,Argentina,ipc,4261.53,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-02-01,Argentina,ipc,4825.79,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-03-01,Argentina,ipc,5357.09,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-04-01,Argentina,ipc,5830.23,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-05-01,Argentina,ipc,6073.7,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-06-01,Argentina,ipc,6351.71,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-07-01,Argentina,ipc,6607.75,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-08-01,Argentina,ipc,6883.44,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-09-01,Argentina,ipc,7122.24,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-10-01,Argentina,ipc,7313.95,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-11-01,Argentina,ipc,7491.43,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-12-01,Argentina,ipc,7694.01,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-01-01,Argentina,ipc,7864.13,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-02-01,Argentina,ipc,8052.99,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-03-01,Argentina,ipc,8353.32,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-04-01,Argentina,ipc,8585.61,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-05-01,Argentina,ipc,8714.49,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-06-01,Argentina,ipc,8855.57,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-07-01,Argentina,ipc,9023.97,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-08-01,Argentina,ipc,9193.24,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-09-01,Argentina,ipc,9384.09,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-10-01,Argentina,ipc,9603.86,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-11-01,Argentina,ipc,9841.36,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-12-01,Argentina,ipc,10121.37,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-01-01,Argentina,ipc,10413.03,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-02-01,Argentina,ipc,10714.63,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-03-01,Argentina,ipc,11077.06,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-04-01,Argentina,ipc,11363.09,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-05-01,Argentina,ipc,11607.39,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-06-01,Argentina,ipc,11826.41,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-07-01,Argentina,ipc,12076.39,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-08-01,Argentina,ipc,12276.77,indice (dic 2016 = 100),INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-01-01,Argentina,inflacion_mensual,1.59,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-02-01,Argentina,inflacion_mensual,2.07,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-03-01,Argentina,inflacion_mensual,2.37,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-04-01,Argentina,inflacion_mensual,2.66,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-05-01,Argentina,inflacion_mensual,1.43,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-06-01,Argentina,inflacion_mensual,1.19,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-07-01,Argentina,inflacion_mensual,1.73,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-08-01,Argentina,inflacion_mensual,1.4,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-09-01,Argentina,inflacion_mensual,1.9,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-10-01,Argentina,inflacion_mensual,1.51,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-11-01,Argentina,inflacion_mensual,1.38,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-12-01,Argentina,inflacion_mensual,3.14,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-01-01,Argentina,inflacion_mensual,1.76,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-02-01,Argentina,inflacion_mensual,2.42,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-03-01,Argentina,inflacion_mensual,2.34,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-04-01,Argentina,inflacion_mensual,2.74,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-05-01,Argentina,inflacion_mensual,2.08,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-06-01,Argentina,inflacion_mensual,3.74,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-07-01,Argentina,inflacion_mensual,3.1,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-08-01,Argentina,inflacion_mensual,3.89,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-09-01,Argentina,inflacion_mensual,6.53,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-10-01,Argentina,inflacion_mensual,5.39,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-11-01,Argentina,inflacion_mensual,3.15,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-12-01,Argentina,inflacion_mensual,2.57,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-01-01,Argentina,inflacion_mensual,2.91,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-02-01,Argentina,inflacion_mensual,3.77,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-03-01,Argentina,inflacion_mensual,4.68,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-04-01,Argentina,inflacion_mensual,3.4,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-05-01,Argentina,inflacion_mensual,3.1,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-06-01,Argentina,inflacion_mensual,2.72,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-07-01,Argentina,inflacion_mensual,2.2,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-08-01,Argentina,inflacion_mensual,3.95,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-09-01,Argentina,inflacion_mensual,5.89,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-10-01,Argentina,inflacion_mensual,3.29,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-11-01,Argentina,inflacion_mensual,4.25,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-12-01,Argentina,inflacion_mensual,3.74,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-01-01,Argentina,inflacion_mensual,2.25,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-02-01,Argentina,inflacion_mensual,2.01,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-03-01,Argentina,inflacion_mensual,3.34,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-04-01,Argentina,inflacion_mensual,1.5,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-05-01,Argentina,inflacion_mensual,1.54,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-06-01,Argentina,inflacion_mensual,2.24,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-07-01,Argentina,inflacion_mensual,1.93,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-08-01,Argentina,inflacion_mensual,2.7,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-09-01,Argentina,inflacion_mensual,2.84,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-10-01,Argentina,inflacion_mensual,3.76,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-11-01,Argentina,inflacion_mensual,3.16,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-12-01,Argentina,inflacion_mensual,4.01,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-01-01,Argentina,inflacion_mensual,4.05,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-02-01,Argentina,inflacion_mensual,3.57,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-03-01,Argentina,inflacion_mensual,4.81,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-04-01,Argentina,inflacion_mensual,4.08,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-05-01,Argentina,inflacion_mensual,3.32,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-06-01,Argentina,inflacion_mensual,3.17,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-07-01,Argentina,inflacion_mensual,3.0,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-08-01,Argentina,inflacion_mensual,2.47,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-09-01,Argentina,inflacion_mensual,3.55,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-10-01,Argentina,inflacion_mensual,3.52,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-11-01,Argentina,inflacion_mensual,2.53,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-12-01,Argentina,inflacion_mensual,3.84,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-01-01,Argentina,inflacion_mensual,3.88,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-02-01,Argentina,inflacion_mensual,4.69,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-03-01,Argentina,inflacion_mensual,6.73,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-04-01,Argentina,inflacion_mensual,6.05,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-05-01,Argentina,inflacion_mensual,5.05,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-06-01,Argentina,inflacion_mensual,5.3,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-07-01,Argentina,inflacion_mensual,7.41,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-08-01,Argentina,inflacion_mensual,6.97,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-09-01,Argentina,inflacion_mensual,6.17,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-10-01,Argentina,inflacion_mensual,6.35,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-11-01,Argentina,inflacion_mensual,4.92,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-12-01,Argentina,inflacion_mensual,5.12,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-01-01,Argentina,inflacion_mensual,6.03,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-02-01,Argentina,inflacion_mensual,6.63,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-03-01,Argentina,inflacion_mensual,7.68,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-04-01,Argentina,inflacion_mensual,8.4,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-05-01,Argentina,inflacion_mensual,7.77,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-06-01,Argentina,inflacion_mensual,5.95,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-07-01,Argentina,inflacion_mensual,6.34,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-08-01,Argentina,inflacion_mensual,12.44,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-09-01,Argentina,inflacion_mensual,12.75,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-10-01,Argentina,inflacion_mensual,8.3,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-11-01,Argentina,inflacion_mensual,12.81,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-12-01,Argentina,inflacion_mensual,25.47,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-01-01,Argentina,inflacion_mensual,20.61,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-02-01,Argentina,inflacion_mensual,13.24,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-03-01,Argentina,inflacion_mensual,11.01,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-04-01,Argentina,inflacion_mensual,8.83,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-05-01,Argentina,inflacion_mensual,4.18,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-06-01,Argentina,inflacion_mensual,4.58,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-07-01,Argentina,inflacion_mensual,4.03,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-08-01,Argentina,inflacion_mensual,4.17,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-09-01,Argentina,inflacion_mensual,3.47,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-10-01,Argentina,inflacion_mensual,2.69,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-11-01,Argentina,inflacion_mensual,2.43,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-12-01,Argentina,inflacion_mensual,2.7,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-01-01,Argentina,inflacion_mensual,2.21,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-02-01,Argentina,inflacion_mensual,2.4,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-03-01,Argentina,inflacion_mensual,3.73,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-04-01,Argentina,inflacion_mensual,2.78,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-05-01,Argentina,inflacion_mensual,1.5,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-06-01,Argentina,inflacion_mensual,1.62,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-07-01,Argentina,inflacion_mensual,1.9,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-08-01,Argentina,inflacion_mensual,1.88,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-09-01,Argentina,inflacion_mensual,2.08,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-10-01,Argentina,inflacion_mensual,2.34,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-11-01,Argentina,inflacion_mensual,2.47,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-12-01,Argentina,inflacion_mensual,2.85,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-01-01,Argentina,inflacion_mensual,2.88,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-02-01,Argentina,inflacion_mensual,2.9,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-03-01,Argentina,inflacion_mensual,3.38,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-04-01,Argentina,inflacion_mensual,2.58,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-05-01,Argentina,inflacion_mensual,2.15,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-06-01,Argentina,inflacion_mensual,1.89,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-07-01,Argentina,inflacion_mensual,2.11,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-08-01,Argentina,inflacion_mensual,1.66,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2017-12-01,Argentina,inflacion_anual,24.8,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-01-01,Argentina,inflacion_anual,25.01,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-02-01,Argentina,inflacion_anual,25.44,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-03-01,Argentina,inflacion_anual,25.4,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-04-01,Argentina,inflacion_anual,25.5,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-05-01,Argentina,inflacion_anual,26.29,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-06-01,Argentina,inflacion_anual,29.47,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-07-01,Argentina,inflacion_anual,31.21,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-08-01,Argentina,inflacion_anual,34.43,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-09-01,Argentina,inflacion_anual,40.54,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-10-01,Argentina,inflacion_anual,45.91,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-11-01,Argentina,inflacion_anual,48.47,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2018-12-01,Argentina,inflacion_anual,47.65,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-01-01,Argentina,inflacion_anual,49.31,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-02-01,Argentina,inflacion_anual,51.28,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-03-01,Argentina,inflacion_anual,54.73,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-04-01,Argentina,inflacion_anual,55.73,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-05-01,Argentina,inflacion_anual,57.3,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-06-01,Argentina,inflacion_anual,55.75,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-07-01,Argentina,inflacion_anual,54.39,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-08-01,Argentina,inflacion_anual,54.48,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-09-01,Argentina,inflacion_anual,53.54,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-10-01,Argentina,inflacion_anual,50.49,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-11-01,Argentina,inflacion_anual,52.09,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2019-12-01,Argentina,inflacion_anual,53.83,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-01-01,Argentina,inflacion_anual,52.86,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-02-01,Argentina,inflacion_anual,50.27,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-03-01,Argentina,inflacion_anual,48.36,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-04-01,Argentina,inflacion_anual,45.63,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-05-01,Argentina,inflacion_anual,43.42,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-06-01,Argentina,inflacion_anual,42.76,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-07-01,Argentina,inflacion_anual,42.39,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-08-01,Argentina,inflacion_anual,40.67,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-09-01,Argentina,inflacion_anual,36.62,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-10-01,Argentina,inflacion_anual,37.24,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-11-01,Argentina,inflacion_anual,35.8,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2020-12-01,Argentina,inflacion_anual,36.14,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-01-01,Argentina,inflacion_anual,38.53,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-02-01,Argentina,inflacion_anual,40.65,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-03-01,Argentina,inflacion_anual,42.65,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-04-01,Argentina,inflacion_anual,46.28,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-05-01,Argentina,inflacion_anual,48.84,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-06-01,Argentina,inflacion_anual,50.2,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-07-01,Argentina,inflacion_anual,51.77,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-08-01,Argentina,inflacion_anual,51.42,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-09-01,Argentina,inflacion_anual,52.47,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-10-01,Argentina,inflacion_anual,52.11,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-11-01,Argentina,inflacion_anual,51.18,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2021-12-01,Argentina,inflacion_anual,50.94,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-01-01,Argentina,inflacion_anual,50.69,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-02-01,Argentina,inflacion_anual,52.32,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-03-01,Argentina,inflacion_anual,55.11,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-04-01,Argentina,inflacion_anual,58.04,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-05-01,Argentina,inflacion_anual,60.68,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-06-01,Argentina,inflacion_anual,63.98,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-07-01,Argentina,inflacion_anual,71.0,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-08-01,Argentina,inflacion_anual,78.52,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-09-01,Argentina,inflacion_anual,83.03,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-10-01,Argentina,inflacion_anual,88.04,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-11-01,Argentina,inflacion_anual,92.41,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2022-12-01,Argentina,inflacion_anual,94.79,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-01-01,Argentina,inflacion_anual,98.83,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-02-01,Argentina,inflacion_anual,102.5,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-03-01,Argentina,inflacion_anual,104.3,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-04-01,Argentina,inflacion_anual,108.83,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-05-01,Argentina,inflacion_anual,114.25,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-06-01,Argentina,inflacion_anual,115.58,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-07-01,Argentina,inflacion_anual,113.45,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-08-01,Argentina,inflacion_anual,124.37,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-09-01,Argentina,inflacion_anual,138.28,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-10-01,Argentina,inflacion_anual,142.66,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-11-01,Argentina,inflacion_anual,160.92,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2023-12-01,Argentina,inflacion_anual,211.41,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-01-01,Argentina,inflacion_anual,254.25,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-02-01,Argentina,inflacion_anual,276.22,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-03-01,Argentina,inflacion_anual,287.87,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-04-01,Argentina,inflacion_anual,289.4,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-05-01,Argentina,inflacion_anual,276.41,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-06-01,Argentina,inflacion_anual,271.53,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-07-01,Argentina,inflacion_anual,263.45,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-08-01,Argentina,inflacion_anual,236.72,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-09-01,Argentina,inflacion_anual,209.0,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-10-01,Argentina,inflacion_anual,192.99,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-11-01,Argentina,inflacion_anual,166.03,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2024-12-01,Argentina,inflacion_anual,117.76,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-01-01,Argentina,inflacion_anual,84.54,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-02-01,Argentina,inflacion_anual,66.87,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-03-01,Argentina,inflacion_anual,55.93,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-04-01,Argentina,inflacion_anual,47.26,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-05-01,Argentina,inflacion_anual,43.48,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-06-01,Argentina,inflacion_anual,39.42,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-07-01,Argentina,inflacion_anual,36.57,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-08-01,Argentina,inflacion_anual,33.56,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-09-01,Argentina,inflacion_anual,31.76,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-10-01,Argentina,inflacion_anual,31.31,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-11-01,Argentina,inflacion_anual,31.37,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2025-12-01,Argentina,inflacion_anual,31.55,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-01-01,Argentina,inflacion_anual,32.41,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-02-01,Argentina,inflacion_anual,33.05,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-03-01,Argentina,inflacion_anual,32.61,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-04-01,Argentina,inflacion_anual,32.35,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-05-01,Argentina,inflacion_anual,33.2,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-06-01,Argentina,inflacion_anual,33.55,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-07-01,Argentina,inflacion_anual,33.83,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26
+2026-08-01,Argentina,inflacion_anual,33.54,porcentaje,INDEC (datos.gob.ar),148.3_INIVELNAL_DICI_M_26

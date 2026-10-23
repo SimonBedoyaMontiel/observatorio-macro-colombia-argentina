@@ -1,0 +1,342 @@
+fecha,pais,indicador,valor,unidad,fuente,serie_id
+2017-01-01,Argentina,dinero_amplio,2298.88,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-02-01,Argentina,dinero_amplio,2376.64,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-03-01,Argentina,dinero_amplio,2379.84,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-04-01,Argentina,dinero_amplio,2422.64,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-05-01,Argentina,dinero_amplio,2456.32,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-06-01,Argentina,dinero_amplio,2548.08,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-07-01,Argentina,dinero_amplio,2612.95,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-08-01,Argentina,dinero_amplio,2613.65,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-09-01,Argentina,dinero_amplio,2660.81,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-10-01,Argentina,dinero_amplio,2706.25,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-11-01,Argentina,dinero_amplio,2789.11,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-12-01,Argentina,dinero_amplio,3037.66,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-01-01,Argentina,dinero_amplio,2973.19,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-02-01,Argentina,dinero_amplio,3014.08,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-03-01,Argentina,dinero_amplio,3062.51,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-04-01,Argentina,dinero_amplio,3099.59,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-05-01,Argentina,dinero_amplio,3237.59,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-06-01,Argentina,dinero_amplio,3510.22,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-07-01,Argentina,dinero_amplio,3490.84,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-08-01,Argentina,dinero_amplio,3889.37,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-09-01,Argentina,dinero_amplio,4031.94,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-10-01,Argentina,dinero_amplio,4013.62,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-11-01,Argentina,dinero_amplio,4175.33,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2018-12-01,Argentina,dinero_amplio,4484.01,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-01-01,Argentina,dinero_amplio,4471.12,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-02-01,Argentina,dinero_amplio,4590.95,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-03-01,Argentina,dinero_amplio,4806.52,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-04-01,Argentina,dinero_amplio,4876.15,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-05-01,Argentina,dinero_amplio,5060.03,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-06-01,Argentina,dinero_amplio,5152.58,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-07-01,Argentina,dinero_amplio,5293.59,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-08-01,Argentina,dinero_amplio,5485.25,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-09-01,Argentina,dinero_amplio,5209.16,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-10-01,Argentina,dinero_amplio,5046.75,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-11-01,Argentina,dinero_amplio,5221.47,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2019-12-01,Argentina,dinero_amplio,5644.66,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-01-01,Argentina,dinero_amplio,5892.95,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-02-01,Argentina,dinero_amplio,6064.03,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-03-01,Argentina,dinero_amplio,6480.34,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-04-01,Argentina,dinero_amplio,6942.79,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-05-01,Argentina,dinero_amplio,7331.84,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-06-01,Argentina,dinero_amplio,7888.03,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-07-01,Argentina,dinero_amplio,8193.03,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-08-01,Argentina,dinero_amplio,8362.32,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-09-01,Argentina,dinero_amplio,8501.34,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-10-01,Argentina,dinero_amplio,8505.24,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-11-01,Argentina,dinero_amplio,8690.61,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2020-12-01,Argentina,dinero_amplio,9388.82,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-01-01,Argentina,dinero_amplio,9476.21,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-02-01,Argentina,dinero_amplio,9723.54,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-03-01,Argentina,dinero_amplio,10074.23,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-04-01,Argentina,dinero_amplio,10323.18,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-05-01,Argentina,dinero_amplio,10716.23,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-06-01,Argentina,dinero_amplio,11334.0,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-07-01,Argentina,dinero_amplio,11696.74,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-08-01,Argentina,dinero_amplio,12070.7,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-09-01,Argentina,dinero_amplio,12439.83,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-10-01,Argentina,dinero_amplio,12911.3,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-11-01,Argentina,dinero_amplio,13185.09,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2021-12-01,Argentina,dinero_amplio,14203.57,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-01-01,Argentina,dinero_amplio,14358.02,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-02-01,Argentina,dinero_amplio,14758.44,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-03-01,Argentina,dinero_amplio,15130.91,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-04-01,Argentina,dinero_amplio,16017.65,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-05-01,Argentina,dinero_amplio,16893.64,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-06-01,Argentina,dinero_amplio,18571.98,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-07-01,Argentina,dinero_amplio,19285.73,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-08-01,Argentina,dinero_amplio,19921.56,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-09-01,Argentina,dinero_amplio,21514.61,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-10-01,Argentina,dinero_amplio,22722.68,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-11-01,Argentina,dinero_amplio,24259.41,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2022-12-01,Argentina,dinero_amplio,26658.07,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-01-01,Argentina,dinero_amplio,27469.47,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-02-01,Argentina,dinero_amplio,28760.28,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-03-01,Argentina,dinero_amplio,30167.54,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-04-01,Argentina,dinero_amplio,32174.62,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-05-01,Argentina,dinero_amplio,34455.95,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-06-01,Argentina,dinero_amplio,37175.13,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-07-01,Argentina,dinero_amplio,39936.97,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-08-01,Argentina,dinero_amplio,43286.32,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-09-01,Argentina,dinero_amplio,46347.25,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-10-01,Argentina,dinero_amplio,48471.02,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-11-01,Argentina,dinero_amplio,50271.03,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2023-12-01,Argentina,dinero_amplio,68924.2,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-01-01,Argentina,dinero_amplio,72843.93,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-02-01,Argentina,dinero_amplio,76051.56,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-03-01,Argentina,dinero_amplio,81851.79,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-04-01,Argentina,dinero_amplio,89269.25,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-05-01,Argentina,dinero_amplio,96526.4,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-06-01,Argentina,dinero_amplio,103910.6,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-07-01,Argentina,dinero_amplio,108857.6,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-08-01,Argentina,dinero_amplio,113657.0,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-09-01,Argentina,dinero_amplio,130089.36,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-10-01,Argentina,dinero_amplio,140136.4,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-11-01,Argentina,dinero_amplio,145294.53,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2024-12-01,Argentina,dinero_amplio,153766.36,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-01-01,Argentina,dinero_amplio,155127.45,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-02-01,Argentina,dinero_amplio,158136.67,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-03-01,Argentina,dinero_amplio,162790.64,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-04-01,Argentina,dinero_amplio,169889.14,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-05-01,Argentina,dinero_amplio,176305.45,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-06-01,Argentina,dinero_amplio,184708.67,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-07-01,Argentina,dinero_amplio,190931.13,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-08-01,Argentina,dinero_amplio,193472.45,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-09-01,Argentina,dinero_amplio,206238.52,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-10-01,Argentina,dinero_amplio,205403.48,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-11-01,Argentina,dinero_amplio,213349.07,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2025-12-01,Argentina,dinero_amplio,222734.86,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2026-01-01,Argentina,dinero_amplio,217549.52,miles de millones de ARS,FMI,MFS_MA/BM_MAI
+2017-01-01,Argentina,reservas_internacionales,46886.71,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-02-01,Argentina,reservas_internacionales,50608.0,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-03-01,Argentina,reservas_internacionales,50522.33,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-04-01,Argentina,reservas_internacionales,48216.72,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-05-01,Argentina,reservas_internacionales,46145.77,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-06-01,Argentina,reservas_internacionales,47994.55,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-07-01,Argentina,reservas_internacionales,47014.17,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-08-01,Argentina,reservas_internacionales,48876.54,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-09-01,Argentina,reservas_internacionales,50237.02,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-10-01,Argentina,reservas_internacionales,51809.94,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-11-01,Argentina,reservas_internacionales,54563.42,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-12-01,Argentina,reservas_internacionales,55055.08,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-01-01,Argentina,reservas_internacionales,62023.84,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-02-01,Argentina,reservas_internacionales,61508.51,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-03-01,Argentina,reservas_internacionales,61725.91,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-04-01,Argentina,reservas_internacionales,56622.97,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-05-01,Argentina,reservas_internacionales,50098.11,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-06-01,Argentina,reservas_internacionales,61880.98,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-07-01,Argentina,reservas_internacionales,57996.16,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-08-01,Argentina,reservas_internacionales,52657.66,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-09-01,Argentina,reservas_internacionales,49003.43,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-10-01,Argentina,reservas_internacionales,53955.09,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-11-01,Argentina,reservas_internacionales,51193.24,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2018-12-01,Argentina,reservas_internacionales,65785.76,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-01-01,Argentina,reservas_internacionales,66811.24,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-02-01,Argentina,reservas_internacionales,68014.86,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-03-01,Argentina,reservas_internacionales,66187.12,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-04-01,Argentina,reservas_internacionales,71662.49,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-05-01,Argentina,reservas_internacionales,64779.38,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-06-01,Argentina,reservas_internacionales,64278.0,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-07-01,Argentina,reservas_internacionales,67899.42,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-08-01,Argentina,reservas_internacionales,54100.38,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-09-01,Argentina,reservas_internacionales,48703.34,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-10-01,Argentina,reservas_internacionales,43260.33,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-11-01,Argentina,reservas_internacionales,43772.26,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2019-12-01,Argentina,reservas_internacionales,44848.34,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-01-01,Argentina,reservas_internacionales,44917.1,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-02-01,Argentina,reservas_internacionales,44790.68,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-03-01,Argentina,reservas_internacionales,43561.21,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-04-01,Argentina,reservas_internacionales,43568.38,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-05-01,Argentina,reservas_internacionales,42588.5,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-06-01,Argentina,reservas_internacionales,43241.5,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-07-01,Argentina,reservas_internacionales,43386.26,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-08-01,Argentina,reservas_internacionales,42842.07,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-09-01,Argentina,reservas_internacionales,41378.84,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-10-01,Argentina,reservas_internacionales,39856.34,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-11-01,Argentina,reservas_internacionales,38651.95,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2020-12-01,Argentina,reservas_internacionales,39387.07,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-01-01,Argentina,reservas_internacionales,39515.18,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-02-01,Argentina,reservas_internacionales,39518.13,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-03-01,Argentina,reservas_internacionales,39593.34,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-04-01,Argentina,reservas_internacionales,40262.76,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-05-01,Argentina,reservas_internacionales,41871.81,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-06-01,Argentina,reservas_internacionales,42436.91,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-07-01,Argentina,reservas_internacionales,42581.74,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-08-01,Argentina,reservas_internacionales,46180.32,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-09-01,Argentina,reservas_internacionales,42911.18,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-10-01,Argentina,reservas_internacionales,42817.08,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-11-01,Argentina,reservas_internacionales,41529.54,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2021-12-01,Argentina,reservas_internacionales,39662.44,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-01-01,Argentina,reservas_internacionales,37588.97,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-02-01,Argentina,reservas_internacionales,37017.46,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-03-01,Argentina,reservas_internacionales,43137.4,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-04-01,Argentina,reservas_internacionales,42006.59,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-05-01,Argentina,reservas_internacionales,41561.08,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-06-01,Argentina,reservas_internacionales,42786.79,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-07-01,Argentina,reservas_internacionales,38231.74,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-08-01,Argentina,reservas_internacionales,36734.43,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-09-01,Argentina,reservas_internacionales,37625.01,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-10-01,Argentina,reservas_internacionales,38675.9,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-11-01,Argentina,reservas_internacionales,38008.87,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2022-12-01,Argentina,reservas_internacionales,44598.43,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-01-01,Argentina,reservas_internacionales,41417.27,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-02-01,Argentina,reservas_internacionales,38709.36,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-03-01,Argentina,reservas_internacionales,39060.01,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-04-01,Argentina,reservas_internacionales,35001.28,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-05-01,Argentina,reservas_internacionales,33001.35,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-06-01,Argentina,reservas_internacionales,27925.95,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-07-01,Argentina,reservas_internacionales,24091.96,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-08-01,Argentina,reservas_internacionales,27818.48,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-09-01,Argentina,reservas_internacionales,26924.7,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-10-01,Argentina,reservas_internacionales,22558.87,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-11-01,Argentina,reservas_internacionales,21513.12,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2023-12-01,Argentina,reservas_internacionales,23073.16,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-01-01,Argentina,reservas_internacionales,27641.53,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-02-01,Argentina,reservas_internacionales,26690.39,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-03-01,Argentina,reservas_internacionales,27127.08,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-04-01,Argentina,reservas_internacionales,27578.44,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-05-01,Argentina,reservas_internacionales,28663.84,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-06-01,Argentina,reservas_internacionales,29021.8,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-07-01,Argentina,reservas_internacionales,26401.66,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-08-01,Argentina,reservas_internacionales,26718.64,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-09-01,Argentina,reservas_internacionales,27172.27,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-10-01,Argentina,reservas_internacionales,28617.95,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-11-01,Argentina,reservas_internacionales,30214.1,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2024-12-01,Argentina,reservas_internacionales,29639.73,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-01-01,Argentina,reservas_internacionales,28309.77,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-02-01,Argentina,reservas_internacionales,28117.31,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-03-01,Argentina,reservas_internacionales,24986.33,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-04-01,Argentina,reservas_internacionales,38928.25,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-05-01,Argentina,reservas_internacionales,36919.13,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-06-01,Argentina,reservas_internacionales,39972.56,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-07-01,Argentina,reservas_internacionales,38865.97,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-08-01,Argentina,reservas_internacionales,39986.15,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-09-01,Argentina,reservas_internacionales,40373.56,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-10-01,Argentina,reservas_internacionales,39381.59,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-11-01,Argentina,reservas_internacionales,40422.42,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2025-12-01,Argentina,reservas_internacionales,41094.28,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-01-01,Argentina,reservas_internacionales,44503.12,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-02-01,Argentina,reservas_internacionales,45565.58,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-03-01,Argentina,reservas_internacionales,42052.05,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-04-01,Argentina,reservas_internacionales,44515.84,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-05-01,Argentina,reservas_internacionales,48193.48,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-06-01,Argentina,reservas_internacionales,44870.21,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-07-01,Argentina,reservas_internacionales,47599.19,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2026-08-01,Argentina,reservas_internacionales,48258.74,millones de USD,FMI,IRFCL/IRFCLDT1_IRFCL65_USD
+2017-01-01,Argentina,tasa_mercado_monetario,24.12,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-02-01,Argentina,tasa_mercado_monetario,23.6,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-03-01,Argentina,tasa_mercado_monetario,22.77,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-04-01,Argentina,tasa_mercado_monetario,23.98,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-05-01,Argentina,tasa_mercado_monetario,24.5,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-06-01,Argentina,tasa_mercado_monetario,24.77,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-07-01,Argentina,tasa_mercado_monetario,25.15,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-08-01,Argentina,tasa_mercado_monetario,26.06,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-09-01,Argentina,tasa_mercado_monetario,26.49,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-10-01,Argentina,tasa_mercado_monetario,25.99,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-11-01,Argentina,tasa_mercado_monetario,27.93,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2017-12-01,Argentina,tasa_mercado_monetario,29.04,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-01-01,Argentina,tasa_mercado_monetario,27.42,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-02-01,Argentina,tasa_mercado_monetario,26.98,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-03-01,Argentina,tasa_mercado_monetario,26.5,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-04-01,Argentina,tasa_mercado_monetario,26.86,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-05-01,Argentina,tasa_mercado_monetario,38.32,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-06-01,Argentina,tasa_mercado_monetario,39.59,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-07-01,Argentina,tasa_mercado_monetario,47.29,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-08-01,Argentina,tasa_mercado_monetario,45.52,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-09-01,Argentina,tasa_mercado_monetario,60.21,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-10-01,Argentina,tasa_mercado_monetario,69.48,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-11-01,Argentina,tasa_mercado_monetario,63.25,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2018-12-01,Argentina,tasa_mercado_monetario,58.62,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-01-01,Argentina,tasa_mercado_monetario,55.89,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-02-01,Argentina,tasa_mercado_monetario,45.74,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-03-01,Argentina,tasa_mercado_monetario,55.06,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-04-01,Argentina,tasa_mercado_monetario,65.63,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-05-01,Argentina,tasa_mercado_monetario,70.31,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-06-01,Argentina,tasa_mercado_monetario,66.53,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-07-01,Argentina,tasa_mercado_monetario,58.42,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-08-01,Argentina,tasa_mercado_monetario,67.31,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-09-01,Argentina,tasa_mercado_monetario,69.88,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-10-01,Argentina,tasa_mercado_monetario,60.94,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-11-01,Argentina,tasa_mercado_monetario,54.64,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2019-12-01,Argentina,tasa_mercado_monetario,50.09,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-01-01,Argentina,tasa_mercado_monetario,39.48,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-02-01,Argentina,tasa_mercado_monetario,34.81,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-03-01,Argentina,tasa_mercado_monetario,30.13,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-04-01,Argentina,tasa_mercado_monetario,8.02,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-05-01,Argentina,tasa_mercado_monetario,14.14,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-06-01,Argentina,tasa_mercado_monetario,16.17,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-07-01,Argentina,tasa_mercado_monetario,15.71,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-08-01,Argentina,tasa_mercado_monetario,15.81,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-09-01,Argentina,tasa_mercado_monetario,15.36,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-10-01,Argentina,tasa_mercado_monetario,23.64,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-11-01,Argentina,tasa_mercado_monetario,27.46,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2020-12-01,Argentina,tasa_mercado_monetario,29.58,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-01-01,Argentina,tasa_mercado_monetario,30.23,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-02-01,Argentina,tasa_mercado_monetario,30.46,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-03-01,Argentina,tasa_mercado_monetario,30.56,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-04-01,Argentina,tasa_mercado_monetario,31.35,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-05-01,Argentina,tasa_mercado_monetario,32.29,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-06-01,Argentina,tasa_mercado_monetario,31.7,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-07-01,Argentina,tasa_mercado_monetario,31.49,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-08-01,Argentina,tasa_mercado_monetario,30.44,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-09-01,Argentina,tasa_mercado_monetario,31.3,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-10-01,Argentina,tasa_mercado_monetario,31.04,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-11-01,Argentina,tasa_mercado_monetario,31.12,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2021-12-01,Argentina,tasa_mercado_monetario,30.55,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-01-01,Argentina,tasa_mercado_monetario,31.4,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-02-01,Argentina,tasa_mercado_monetario,31.08,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-03-01,Argentina,tasa_mercado_monetario,33.02,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-04-01,Argentina,tasa_mercado_monetario,35.11,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-05-01,Argentina,tasa_mercado_monetario,38.19,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-06-01,Argentina,tasa_mercado_monetario,40.26,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-07-01,Argentina,tasa_mercado_monetario,43.29,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-08-01,Argentina,tasa_mercado_monetario,57.66,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-09-01,Argentina,tasa_mercado_monetario,63.62,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-10-01,Argentina,tasa_mercado_monetario,66.06,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-11-01,Argentina,tasa_mercado_monetario,65.9,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2022-12-01,Argentina,tasa_mercado_monetario,67.51,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-01-01,Argentina,tasa_mercado_monetario,66.73,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-02-01,Argentina,tasa_mercado_monetario,66.49,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-03-01,Argentina,tasa_mercado_monetario,68.37,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-04-01,Argentina,tasa_mercado_monetario,70.6,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-05-01,Argentina,tasa_mercado_monetario,82.75,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-06-01,Argentina,tasa_mercado_monetario,84.6,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-07-01,Argentina,tasa_mercado_monetario,85.89,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-08-01,Argentina,tasa_mercado_monetario,99.42,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-09-01,Argentina,tasa_mercado_monetario,105.85,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-10-01,Argentina,tasa_mercado_monetario,111.8,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-11-01,Argentina,tasa_mercado_monetario,116.34,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2023-12-01,Argentina,tasa_mercado_monetario,98.84,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-01-01,Argentina,tasa_mercado_monetario,92.32,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-02-01,Argentina,tasa_mercado_monetario,94.27,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-03-01,Argentina,tasa_mercado_monetario,83.97,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-04-01,Argentina,tasa_mercado_monetario,67.32,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-05-01,Argentina,tasa_mercado_monetario,42.65,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-06-01,Argentina,tasa_mercado_monetario,37.45,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-07-01,Argentina,tasa_mercado_monetario,37.95,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-08-01,Argentina,tasa_mercado_monetario,42.23,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-09-01,Argentina,tasa_mercado_monetario,43.77,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-10-01,Argentina,tasa_mercado_monetario,45.31,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-11-01,Argentina,tasa_mercado_monetario,39.69,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2024-12-01,Argentina,tasa_mercado_monetario,37.27,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-01-01,Argentina,tasa_mercado_monetario,36.04,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-02-01,Argentina,tasa_mercado_monetario,32.41,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-03-01,Argentina,tasa_mercado_monetario,32.06,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-04-01,Argentina,tasa_mercado_monetario,35.33,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-05-01,Argentina,tasa_mercado_monetario,32.59,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-06-01,Argentina,tasa_mercado_monetario,33.29,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-07-01,Argentina,tasa_mercado_monetario,43.21,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-08-01,Argentina,tasa_mercado_monetario,68.97,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-09-01,Argentina,tasa_mercado_monetario,47.16,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-10-01,Argentina,tasa_mercado_monetario,68.27,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-11-01,Argentina,tasa_mercado_monetario,28.12,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2025-12-01,Argentina,tasa_mercado_monetario,24.06,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-01-01,Argentina,tasa_mercado_monetario,35.58,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-02-01,Argentina,tasa_mercado_monetario,31.3,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-03-01,Argentina,tasa_mercado_monetario,21.21,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-04-01,Argentina,tasa_mercado_monetario,20.82,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-05-01,Argentina,tasa_mercado_monetario,20.11,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-06-01,Argentina,tasa_mercado_monetario,20.72,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-07-01,Argentina,tasa_mercado_monetario,20.91,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
+2026-08-01,Argentina,tasa_mercado_monetario,23.34,porcentaje,FMI,MFS_IR/MMRT_RT_PT_A_PT
