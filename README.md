@@ -59,12 +59,12 @@ flowchart LR
 
 | Indicador | 🇨🇴 Colombia | 🇦🇷 Argentina |
 | --- | --- | --- |
-| 📈 Inflación (IPC) | DANE ✅ | INDEC |
-| 💱 Tipo de cambio oficial | TRM (datos.gov.co) ✅ | BCRA |
+| 📈 Inflación (IPC) | DANE ✅ | INDEC ✅|
+| 💱 Tipo de cambio oficial | TRM (datos.gov.co) ✅ | BCRA ✅ |
 | 💵 Tipo de cambio paralelo | No aplica | A definir |
-| 🏦 Tasa del mercado monetario | FMI ✅ | FMI (sugerido) |
-| 🪙 Reservas internacionales | FMI ✅ | FMI (sugerido) |
-| 💰 Dinero amplio | FMI ✅ | FMI (sugerido) |
+| 🏦 Tasa del mercado monetario | FMI ✅ | FMI ✅ |
+| 🪙 Reservas internacionales | FMI ✅ | FMI ✅ |
+| 💰 Dinero amplio | FMI ✅ | FMI ✅ |
 
 ✅ Serie descargada, limpia y cargada en PostgreSQL.
 
@@ -122,7 +122,8 @@ python analisis/grafico_trm.py             # 4. gráfico
 │   ├── colombia/            # Scripts de descarga de Colombia
 │   └── argentina/           # Scripts de descarga de Argentina
 ├── limpieza/
-│   └── colombia/            # Scripts que llevan cada serie al esquema común
+│   ├── colombia/            # Scripts que llevan cada serie al esquema común
+│   └── argentina/           
 ├── carga/
 │   └── cargar_datos.py      # Carga los datos limpios a PostgreSQL
 ├── datos/
