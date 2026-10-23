@@ -12,15 +12,3 @@ CREATE TABLE IF NOT EXISTS observaciones (
     serie_id   VARCHAR(100),           -- código de la serie en la fuente original
     PRIMARY KEY (fecha, pais, indicador)  -- evita cargar dos veces el mismo dato
 );
-
-SELECT pais, indicador, COUNT(*) AS meses, MIN(fecha) AS desde, MAX(fecha) AS hasta
-FROM observaciones
-GROUP BY pais, indicador
-ORDER BY pais, indicador;
-
-SELECT fecha, indicador, valor
-FROM observaciones
-WHERE pais = 'Argentina'
-  AND fecha IN ('2023-11-01', '2023-12-01', '2024-01-01')
-  AND indicador IN ('inflacion_mensual', 'tipo_cambio_oficial', 'tasa_mercado_monetario')
-ORDER BY indicador, fecha;
